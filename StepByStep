@@ -1,0 +1,13 @@
+Pas à pas : JAVA
+- Réfléchir à un UML
+- Créer la classe Agent la plus généraliste possible
+- Créer une fonction Main permettant de tester les fonctionnalités d'Agent 
+- Spécialiser la classe Agent (1 héritage pour le rodage) 
+- Tester des fonctionnalités dans le Main
+- Créer une classe Simulation qui pour commencer crée un agent et le fait évoluer sur du tour par tour (pas de gestion d'ennemis)
+- Mise en place du monde (dimension, jour/nuit...) 
+- Gestion des mouvements pour un agent
+- Affichage basique en console
+- Mise en place des autres classes qui héritent d'Agent.
+- Gestion des immobiles dans le monde.
+-
